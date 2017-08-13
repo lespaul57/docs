@@ -22,7 +22,7 @@ Herunterladen und Installieren:
 
 Die Installation ist äußerst einfach, folgen Sie einfach den Schritt-für-Schritt Anweisungen. Bitte beachten Sie, dass die Installation von .Net Cross-Plattorm Entwicklung ausgewählt werden muss, da Sie sonst neo-vm project in Schritt #3 nicht öffnen können. Die Installation dauert zwischen 10 Minuten und einer Stunde. 
 
-![install net core cross-platform development toolset](docs/de-de/sc/assets/install_core_cross_platform_development_toolset.png)
+![install net core cross-platform development toolset](assets/install_core_cross_platform_development_toolset.png)
  
 ### 2. NeoContractPlugin
 
