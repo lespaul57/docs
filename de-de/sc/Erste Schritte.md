@@ -59,6 +59,8 @@ Rechtsklicken Sie das Computer Icon. Wählen Sie Eigenschaften in dem Kontextmen
 ![edit environmental variables](assets/edit_environmental_variables.png)
 
 Starten Sie die Kommandozeile oder PowerShell und geben neon.exe ein. Wenn keine Fehlermeldung erscheint und die Version Nummer angezeigt wird, dann war die Konfiguration der Umgebungsvariable erfolgreich. 
+
+![powershell enviornment variabled updated correctly](assets/CompilerCheck.png)
  
 Hinweis: Unter Windows 7 SP1 könnte die Fehlermeldung „Unhandled Exception: System.DllNotFoundException: Unable to load DLL ‚api-ms-core-console-l2-1-0-dll‘: The specified module could not be found“ erscheinen. Die benötigte api-ms-core-console-l2-1-0-dll Datei gibt es nur unter Windows 8 und späteren Versionen. Mittels Download eines api-ms-core-console-l2-1-0-dll Files und Kopieren in C:\Windows\System32 kann diese Fehlermeldung behoben werden. 
 
