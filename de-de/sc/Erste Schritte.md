@@ -67,8 +67,12 @@ Hinweis: Unter Windows 7 SP1 könnte die Fehlermeldung „Unhandled Exception: S
 ## Projekt erstellen
 
 Nach erfolgter Installation können Sie ein neues NeoContract Projekt in Visual Studio 2017 erstellen.
-  
+ 
+![new smart contract project](assets/NewProject.png)
+
 Bei Erstellung eines neuen Projekts wird automatisch ein C# File kreiert. Es ist die standardmäßige Objektklasse von FuntionCode, wie im Folgenden demonstriert wird:
+
+![smart contract function code](assets/HelloWorld.png)
  
 ## Kompilierung eines Projekts
 
@@ -85,6 +89,8 @@ public class Contract1: FunctionCode
 ```
  
 Nachdem die Kompilierung erfolgreich war, wird im bin/Debug Verzeichnis SmartContract1.avm angezeigt, was das generierte Neo Smart Contract File darstellt. 
+
+![compile smart contract](assets/AvmFile.png)
  
 Da die Konfiguration des Neo Smart Contract Entwicklungsumfeldes nun abgeschlossen ist, öffnen Sie nun bitte das [NEO Smart Contract Tutorial](https://github.com/neo-project/docs/blob/master/en-us/sc/tutorial.md) 
  
