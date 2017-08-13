@@ -56,6 +56,7 @@ Verwenden Sie die Suchfunktion um die Systemeigenschaften zu lokalisieren und zu
 
 Rechtsklicken Sie das Computer Icon. Wählen Sie Eigenschaften in dem Kontextmenü aus. Klicken Sie erweiterte Eigenschaften. Klicken Sie Umgebungsvariablen. Suchen sie die PATH Umgebungsvariable in der Kategorie Systemvariablen und wählen sie aus. Klicken Sie Bearbeiten. Sollte die PATH Umgebungsvariable nicht existieren, dann klicken Sie Neu. Definieren Sie in beiden Fällen die PATH Umgebungsvariable. Klicken Sie OK und schließen Sie alle Fenster mittels OK. 
  
+![edit environmental variables](assets/edit_environmental_variables.png)
 
 Starten Sie die Kommandozeile oder PowerShell und geben neon.exe ein. Wenn keine Fehlermeldung erscheint und die Version Nummer angezeigt wird, dann war die Konfiguration der Umgebungsvariable erfolgreich. 
  
