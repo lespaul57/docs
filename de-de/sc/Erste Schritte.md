@@ -30,7 +30,9 @@ Installation:
 
 Öffnen Sie Visual Studio 2017, wählen Sie Tools aus, klicken Sie auf Erweiterungen und Updates, klicken Sie auf den Online Tab auf der linken Seite, suchen Sie NEO in dem Suchfeld in der rechten oberen Ecke und downloaden Sie NeoContractPlugin (Internetverbindung erforderlich).
  
-![download and install NEO smart contract plugin](assets/NeoContractDownload.png)
+ ![download and install NEO smart contract plugin](assets/NeoContractDownload.png)
+
+![publish and profile settings](assets/publish_and_profile_settings.png)
  
 ### 3. Neo-Compiler 
 
@@ -38,6 +40,9 @@ Installation und Konfiguration:
 
 Downloaden Sie das [neo-compiler](https://github.com/neo-project/neo-compiler) Projekt auf Github, öffnen Sie den Solution Explorer in Visual Studio 2017 und veröffentlichen Sie das neon Projekt. 
  
+![publish NEO compiler msil project](assets/PublishComplier.png)
+
+![publish and profile settings](assets/publish_and_profile_settings.png)
  
 Nach erfolgter Veröffentlichung wird das neon.exe File in `bin\Release\PublishOutput` generiert.
 
